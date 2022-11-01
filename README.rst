@@ -1,7 +1,7 @@
 [button](<link rel="stylesheets"href="style.css">)
-[readme](1(1).jpg)
+[readme](img(1).jpg)
 
-
+<img src="img(1).jpg">
  
 
 
